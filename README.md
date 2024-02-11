@@ -54,6 +54,12 @@ Perform and publish a custom EDA project to demonstrate skills learned up to thi
 
 ## ⚡ Notebook Design ⚡
 
-### Good thing
+### 👍 Good thing
 
-### Bad thing
+### 👎 Bad thing
+
+## Notebook Design 🌉
+
+## Notebook Structure and Documentation 📝
+
+## Notebook Execution
