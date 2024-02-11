@@ -1,11 +1,18 @@
-# Project: datafun-06-eda
+# Project name: Exploratory Data Analysis 
+ - Author: Jason A. Ballard
+  
+ - Date project start:  February 11, 2024
+  
+ - Data Project complete: 
+
+## ref: datafun-06-eda
 
 ## Overview
 
-## Deliverables 
+## 📥 Deliverables 
 
 
-## External Dependencies
+## 🐼 External Dependencies 🪐
 The project will install and import the following dependencies:
 * jupyterlab
 * pandas
@@ -13,13 +20,13 @@ The project will install and import the following dependencies:
 * matplotlib
 * seaborn
 
-## Objective
+## Objective ✖️
 Perform and publish a custom EDA project to demonstrate skills learned up to this pooint in the course
 
-## Explore Datasets
+## Explore Datasets 🤯
 
 
-## Requirements
+## Requirements 📋
 
 ### ⛰️ 1. Environment Setup 
 
@@ -45,7 +52,7 @@ Perform and publish a custom EDA project to demonstrate skills learned up to thi
 
 #### 📖 h. Storytelling
 
-## Notebook Design :r
+## ⚡ Notebook Design ⚡
 
 ### Good thing
 
