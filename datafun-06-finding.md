@@ -6,13 +6,13 @@ Hello! My name is Jason Ballard, and I'm passionate about data science and oenol
 
 ## Dataset Overview
 
-The dataset consists of several physicochemical properties of wines, such as acidity, sugar content, alcohol level, and a quality rating from 0 to 10. We aim to understand how these properties correlate with the wine's quality and what factors are most indicative of a high-quality wine.
+The dataset consists of several physicochemical properties of wines, such as acidity, sugar content, alcohol level, and a quality rating from 0 to 10. The project aims to present how these properties correlate with the wine's quality and what factors are most indicative of a high-quality wine.
 
 ## Subsection 1: Distribution of Wine Quality
 
 ### Goal
 
-Our first exploration seeks to understand the distribution of wine quality scores across the dataset.
+The first exploration seeks to understand the distribution of wine quality scores across the dataset.
 
 ### Chart
 
@@ -26,7 +26,7 @@ The histogram reveals that the majority of wines have a quality score around 5 t
 
 ### Goal
 
-Next, we investigate if there's a noticeable relationship between the alcohol content of the wine and its quality score.
+Subsection #2 investigates if there's a noticeable relationship between the alcohol content of the wine and its quality score.
 
 ### Chart
 
