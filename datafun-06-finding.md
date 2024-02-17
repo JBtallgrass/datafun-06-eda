@@ -16,7 +16,7 @@ The dataset consists of several physicochemical properties of wines, such as aci
 
 The first exploration seeks to understand the distribution of wine quality scores across the dataset.
 
-### Chart
+### Chart: Distribution of Wine Quality
 
 ![Distribution of Wine Quality](https://github.com/JBtallgrass/datafun-06-eda/blob/main/figures/Distribution%20of%20Wine%20Quality%20Scores.png)
 
@@ -30,7 +30,7 @@ The histogram reveals that the majority of wines have a quality score around 5 t
 
 Investigate if there's a noticeable relationship between the alcohol content of the wine and its quality score.
 
-### Chart
+### Chart: Alcohol Content and Wine Quality
 
 ![Alcohol and Wine Quality](https://github.com/JBtallgrass/datafun-06-eda/blob/main/figures/Alcohol%20Content%20vs.%20Wine%20Quality.png)
 
@@ -44,9 +44,9 @@ The scatter plot suggests a positive correlation between alcohol content and win
 
 Compare the average sulphates content across wines of different quality categories to see if sulphates play a role in quality differentiation.
 
-### Chart
+### Chart: Sulphates impacts on Wine quality
 
-![Sulphates between Wine quality](figures/Average Sulphates Content by Wine Quality Category.png)
+![Sulphates between Wine quality](https://github.com/JBtallgrass/datafun-06-eda/blob/main/figures/Average%20Sulphates%20Content%20by%20Wine%20Quality%20Category.png)
 
 ### Story
 
@@ -58,7 +58,7 @@ The bar chart indicates that higher quality wines tend to have a slightly higher
 
 Explore how different levels of acidity (fixed acidity, volatile acidity, and citric acid) impact wine quality.
 
-### Chart
+### Chart: Impact of Acidity on Wine Quality
 
 ![Impact of Acidity on Wine Quality](https://github.com/JBtallgrass/datafun-06-eda/blob/main/figures/Impact_of_Acidity_on_Wine_Quality.png)
 
