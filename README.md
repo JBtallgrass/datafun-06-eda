@@ -57,19 +57,12 @@ Cortez, Paulo, et al. (2009). Wine Quality. UCI Machine Learning Repository. [DO
 
 #### Exploratory Data Analysis (EDA) 🔬
 1. **Data Acquisition**: Load the dataset into a Pandas DataFrame.
-'''python
- '''
-
 2.  **Initial Inspection**: Examine data structure and summaries.
-
-
 3.  **Descriptive Analysis**: Perform statistical analysis on numerical and categorical data.
-
-
-5. **Data Distribution Analysis**: Visualize distributions and identify outliers.
-6. **Data Transformation**: Handle missing values and engineer features as needed.
-7. **Visualization**: Create plots to explore data relationships and patterns.
-8. **Storytelling**: Compile insights into a narrative, supported by data visualizations.
+4. **Data Distribution Analysis**: Visualize distributions and identify outliers.
+5. **Data Transformation**: Handle missing values and engineer features as needed.
+6. **Visualization**: Create plots to explore data relationships and patterns.
+7. **Storytelling**: Compile insights into a narrative, supported by data visualizations.
 
 ### Notebook Design 🌉
 - **Consistent Structure**: Organize notebooks logically with clear documentation.
