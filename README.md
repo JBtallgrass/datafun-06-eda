@@ -1,120 +1,63 @@
-# Project name: Exploratory Data Analysis 
- - Author: Jason A. Ballard
-  
- - Date project start:  February 11, 2024
-  
- - Data Project complete: 
+# Exploratory Data Analysis Project
+### Author: Jason A. Ballard
+- **Project Start Date**: February 11, 2024
+- **Project Completion Date**: TBD
 
-## ref: datafun-06-eda
+### Overview
+This project aims to perform and publish a comprehensive Exploratory Data Analysis (EDA) to showcase the skills learned throughout the course. We will be analyzing the Wine Quality Dataset from the University of California-Irvine, demonstrating data preprocessing, visualization, and machine learning model deployment capabilities.
 
-## Overview
+### Deliverables
+- Comprehensive EDA Report
+- Jupyter Notebooks with Analysis
+- Visualizations and Insights into Wine Quality Data
 
-## 📥 Deliverables 
+### External Dependencies 🐼🪐
+- `jupyterlab`
+- `pandas`
+- `pyarrow`
+- `matplotlib`
+- `seaborn`
 
+### Objective ✖️
+To conduct a detailed exploratory data analysis on the Wine Quality Dataset, providing insights into factors affecting wine quality and predicting quality scores.
 
-## 🐼 External Dependencies 🪐
-The project will install and import the following dependencies:
-* jupyterlab
-* pandas
-* pyarrow
-* matplotlib
-* seaborn
+### Dataset 🍷
+The Wine Quality Dataset, hosted by the UCI Machine Learning Repository, is a rich source for regression and classification analysis, offering a unique challenge in predicting subjective outcomes through objective data.
 
-## Objective ✖️
-Perform and publish a custom EDA project to demonstrate skills learned up to this pooint in the course
+#### Source Citation:
+Cortez, Paulo, et al. (2009). Wine Quality. UCI Machine Learning Repository. [DOI](https://doi.org/10.24432/C56S3T).
 
-## Explore Datasets 🤯 
-The dateset for this project is the Wine quality dataset from the University of Californina-Irvine 
-https://github.com/uci-ml-repo/ucimlrepo.git
+### Project Workflow
 
-🍷 The Wine Quality Dataset, hosted by the UCI Machine Learning Repository, is widely recognized and utilized for educational and research endeavors within the data science community, especially for tasks related to regression and classification analyses. What makes this dataset compelling is its blend of real-world data with the intriguing challenge of forecasting a subjective result—the quality of wine—through the lens of objective metrics.
+#### Environment Setup ⛰️
+1. **GitHub Initialization**: Create or clone a repository for project management and version control.
+2. **Local Environment**: Set up a project folder, initialize Git, and connect to GitHub.
+3. **Virtual Environment**: Create and activate a virtual environment for dependency management.
+4. **Dependency Installation**: Install necessary packages using `pip`.
+5. **`.gitignore` Configuration**: Exclude non-essential files from version tracking.
+6. **Logging**: Implement logging for effective output management.
 
-🍷This dataset holds significant value for both students and practitioners eager to hone their skills in data preprocessing, exploratory data analysis, and deploying diverse machine learning models. It presents a real-world case with a subjective outcome, offering a captivating challenge in leveraging objective data to forecast subjective attributes.
+#### Project Start 🐎
+1. **Jupyter Lab Usage**: Use Jupyter Lab for project development, organizing notebooks by functionality.
+2. **Version Control**: Regularly commit changes to Git, using branches for experimental features.
 
-### Source document citation:
-Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). 
-Wine Quality. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
+#### Dependency Management 🐤
+1. **Assessment**: Determine necessary libraries for the project.
+2. **Installation**: Install dependencies within the virtual environment.
+3. **Documentation**: Generate a `requirements.txt` file and document critical dependencies in README.
 
+#### Exploratory Data Analysis (EDA) 🔬
+1. **Data Acquisition**: Load the dataset into a Pandas DataFrame.
+2. **Initial Inspection**: Examine data structure and summaries.
+3. **Descriptive Analysis**: Perform statistical analysis on numerical and categorical data.
+4. **Data Distribution Analysis**: Visualize distributions and identify outliers.
+5. **Data Transformation**: Handle missing values and engineer features as needed.
+6. **Visualization**: Create plots to explore data relationships and patterns.
+7. **Storytelling**: Compile insights into a narrative, supported by data visualizations.
 
-## Requirements 📋
+### Notebook Design 🌉
+- **Consistent Structure**: Organize notebooks logically with clear documentation.
+- **Execution**: Ensure notebooks run smoothly from start to finish.
 
-### ⛰️ 1. Environment Setup (this is from an AI prompt for the project author to follow. The prompt began with notes taken from the course and consolidated within a GPT. Once complete it was edited for user-understanding)
-#### Step 1: Choose Workflow Start Point
-
-##### Starting with GitHub
-1. Create a new repository on GitHub for the project's online presence, sharing, and publishing.
-2. Clone the repository to a local machine, typically into a directory like Documents, to automatically set up a connection between the local project and GitHub.
-
-##### Starting on Local Machine
-1. Create a new project folder within a chosen directory, such as Documents, on the local machine.
-2. Initialize this folder with Git, add a remote pointing to a new or existing GitHub repository, and push the initial commit. This method allows more flexibility in setting up the project before publishing it online.
-
-#### Managing Changes with Git
-- **Add Changes**: Stage changed files or all files in the directory for the next commit.
-- **Commit Changes**: Save a snapshot of staged changes with a descriptive message.
-- **Push Changes**: Upload committed changes to GitHub.
-- **Pull Changes**: Sync the local repository with changes from GitHub to keep everything up-to-date.
-
-#### Set Up a Virtual Environment
-- **Create a Virtual Environment**: Establish a separate environment for the project to manage dependencies without affecting the global Python setup.
-- **Activate the Virtual Environment**: Activate the environment for installing project-specific packages.
-- **Install Project Dependencies**: Use `pip` to install necessary packages for the project.
-- **Freeze Dependencies**: Generate a `requirements.txt` file listing all project dependencies and their versions.
-
-#### Ignore Unnecessary Files with .gitignore
-- **Create a `.gitignore` File**: This file instructs Git on which files or directories to ignore in the project, such as the virtual environment folder and editor settings, crucial for keeping the repository clean and avoiding unnecessary file tracking.
-
-#### Use Logging for Output
-- Incorporate logging into the project to save output to files for easier monitoring and debugging over time, instead of relying solely on `print()` statements.
-
-#### Additional Tips
-- **Commit Often**: Regular, small commits are key to effective version control, facilitating easier change tracking and reversion to previous states if necessary.
-- **Use Branches**: For developing new features or experimenting, branches offer a safe space without affecting the main project.
-- **Review Changes Before Committing**: Always review changes carefully before committing to ensure only intended changes are included.
-
-This workflow provides a foundation for project management, combining best practices in version control, environment management, and project organization. Adapt as necessary to meet specific project needs.
-
-### 🐎 2. Project Start 
-When using Jupyter Lab as the primary editor for a project, the step-by-step procedure after setting up the initial project structure and environment would focus on utilizing Jupyter Lab effectively for development. Here is a detailed guide tailored for this scenario:
-
-#### Preparing the Workspace
-1. **Open Jupyter Lab**: Launch Jupyter Lab from the terminal or command prompt by navigating to the project's root directory and running the command `jupyter lab`. Ensure the virtual environment is activated if the project requires it.
-2. **Create a New Jupyter Notebook**: Within Jupyter Lab, create a new notebook for development. Select the appropriate kernel (Python version or virtual environment) if prompted.
-
-#### Developing in Jupyter Lab
-3. **Organize Notebooks**: Create notebooks for different components or aspects of the project. Name them clearly to reflect their purpose, such as `data_preprocessing.ipynb`, `model_training.ipynb`, or `analysis.ipynb`.
-4. **Write Code and Documentation Together**: Utilize the notebook's cells to write code and markdown cells for documentation. This allows for a mix of executable code, explanations, and visualizations within the same document.
-5. **Test Code in Segments**: Execute code cells individually or in groups. This modular testing allows for immediate feedback and debugging, which is ideal for iterative development and data exploration.
-6. **Version Control with Git**: Regularly save changes to notebooks and use Git commands to add, commit, and push updates to the GitHub repository. Consider using tools like `nbdime` for diffing and merging notebooks or converting notebooks to script format (`*.py`) for easier version control.
-
-### 🐤 3. Import Dependencies 
-
-### 🔬 4. Exploratory Data Analysis 
-
-#### 🛰️ a. Data Acquisition 
-
-#### 🔍 b. Initial Data Inspection
-
-#### 🎨 c. Descriptive analysis
-
-#### 🧮 d. Data distro (Numerical)
-
-#### 🔠 e. Data distro (catagorical)
-
-#### 👽 f. Data Transformation and Feature engineering
-
-#### 📊 g. Data Visualizations
-
-#### 📖 h. Storytelling
-
-## ⚡ Notebook Design ⚡
-
-### 👍 Good thing
-
-### 👎 Bad thing
-
-## Notebook Design 🌉
-
-## Notebook Structure and Documentation 📝
-
-## Notebook Execution
+### Conclusion
+This project encapsulates the journey of exploring the Wine Quality Dataset through a detailed EDA process, utilizing a range of Python libraries and tools to uncover insights and patterns within the data. The methodology and findings will be shared comprehensively, demonstrating the application of data science techniques learned throughout the course.
