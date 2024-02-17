@@ -18,6 +18,8 @@ This project aims to perform and publish a comprehensive Exploratory Data Analys
 
 -Notebook: jballard_eda.ipynb
 
+-Findings: datafun-06-finding.md
+
 ### External Dependencies 🐼🪐
 - `jupyterlab`
 - `pandas`
