@@ -5,7 +5,8 @@
 
 ### Exploratory Data Analysis Findings:
 
-#### datafun-06-finding.md
+####  [Project findings](URL or relative path to the file)
+
 
 ### Overview
 This project aims to perform and publish a comprehensive Exploratory Data Analysis (EDA) to showcase the skills learned throughout the course. We will be analyzing the Wine Quality Dataset from the University of California-Irvine, demonstrating data preprocessing, visualization, and machine learning model deployment capabilities.
