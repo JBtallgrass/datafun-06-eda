@@ -16,9 +16,9 @@ The first exploration seeks to understand the distribution of wine quality score
 
 ### Chart
 
-histogram visualization of wine quality distribution.*
+![Distribution of Wine qaulity](figures\Distribution of Wine Quality Scores.png)
 
-### Story
+### Story 
 
 The histogram reveals that the majority of wines have a quality score around 5 to 6, indicating a moderate quality. There are fewer wines with very high or very low quality scores, suggesting that extreme qualities are less common in this dataset.
 
@@ -30,7 +30,7 @@ Subsection #2 investigates if there's a noticeable relationship between the alco
 
 ### Chart
 
-*Here, you would insert the scatter plot of alcohol content vs. wine quality.*
+![Alcohol and Wine Quality](figures\Alcohol Content vs. Wine Quality.png)
 
 ### Story
 
