@@ -5,7 +5,7 @@
 
 ### Exploratory Data Analysis Findings:
 
-####  [Project findings](URL or relative path to the file)
+####  [Project findings](https://github.com/JBtallgrass/datafun-06-eda/blob/main/datafun-06-finding.md)
 
 
 ### Overview
