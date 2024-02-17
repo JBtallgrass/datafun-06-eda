@@ -16,7 +16,7 @@ The first exploration seeks to understand the distribution of wine quality score
 
 ### Chart
 
-![Distribution of Wine qaulity](figures\Distribution of Wine Quality Scores.png)
+![Distribution of Wine Quality](figures/Distribution of Wine Quality Scores.png)
 
 ### Story 
 
@@ -30,7 +30,7 @@ Subsection #2 investigates if there's a noticeable relationship between the alco
 
 ### Chart
 
-![Alcohol and Wine Quality](figures\Alcohol Content vs. Wine Quality.png)
+![Alcohol and Wine Quality](figures/Alcohol Content vs. Wine Quality.png)
 
 ### Story
 
@@ -44,7 +44,7 @@ We aim to compare the average sulphates content across wines of different qualit
 
 ### Chart
 
-![Sulphates between Wine quality](figures\Average Sulphates Content by Wine Quality Category.png)
+![Sulphates between Wine quality](figures/Average Sulphates Content by Wine Quality Category.png)
 
 ### Story
 
@@ -54,11 +54,11 @@ The bar chart indicates that higher quality wines tend to have a slightly higher
 
 ### Goal
 
-Fiwenally,  explore how different levels of acidity (fixed acidity, volatile acidity, and citric acid) impact wine quality.
+Finally, explore how different levels of acidity (fixed acidity, volatile acidity, and citric acid) impact wine quality.
 
 ### Chart
 
-![Impact of Acidity on Wine Quality](figures\Impact_of_Acidity_on_Wine_Quality.png)
+![Impact of Acidity on Wine Quality](figures/Impact_of_Acidity_on_Wine_Quality.png)
 
 ### Story
 
