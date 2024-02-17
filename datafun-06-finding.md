@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! My name is [Your Name], and I'm passionate about data science and oenology—the science of wine and winemaking. Today, I will be sharing insights from an exploratory data analysis of a dataset that includes physicochemical properties and quality ratings of red and white variants of the Portuguese "Vinho Verde" wine. Our goal is to uncover patterns and relationships that might influence wine quality.
+Hello! My name is Jason Ballard, and I'm passionate about data science and oenology—the science of wine and winemaking. Today, I will be sharing insights from an exploratory data analysis of a dataset that includes physicochemical properties and quality ratings of red and white variants of the Portuguese "Vinho Verde" wine. The project objective is to uncover patterns and relationships that might influence wine quality resulting in determining marketability.
 
 ## Dataset Overview
 
@@ -16,7 +16,7 @@ Our first exploration seeks to understand the distribution of wine quality score
 
 ### Chart
 
-*Here, you would include the histogram visualization of wine quality distribution.*
+histogram visualization of wine quality distribution.*
 
 ### Story
 
