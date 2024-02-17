@@ -8,7 +8,9 @@ This project aims to perform and publish a comprehensive Exploratory Data Analys
 
 ### Deliverables
 -GitHub Repository: datafun-06-eda
+
 -Documentation: README.md
+
 -Notebook: jballard_eda.ipynb
 
 ### External Dependencies 🐼🪐
