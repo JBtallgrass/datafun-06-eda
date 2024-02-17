@@ -68,6 +68,6 @@ The pair plot shows varied relationships between the types of acidity and wine q
 
 ## Conclusion
 
-Through our exploratory analysis, we've discovered several key factors that correlate with wine quality, including alcohol content, sulphates, and acidity levels. These findings suggest that a delicate balance of physicochemical properties contributes to the overall quality of wine, highlighting the art and science behind winemaking.
+Through the exploratory analysis, there are several key factors that correlate with wine quality, including alcohol content, sulphates, and acidity levels. These findings suggest that a delicate balance of physicochemical properties contributes to the overall quality of wine, highlighting the art and science behind winemaking.
 
-Thank you for joining me on this data-driven journey into the world of wine. Cheers to uncovering more insights in the future!v
+Thank you for joining me on this data-driven journey into the world of wine. 
