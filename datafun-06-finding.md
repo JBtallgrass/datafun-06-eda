@@ -18,7 +18,7 @@ The first exploration seeks to understand the distribution of wine quality score
 
 ### Chart
 
-![Distribution of Wine Quality](figures/Distribution of Wine Quality Scores.png)
+![Distribution of Wine Quality](
 
 ### Story 
 
