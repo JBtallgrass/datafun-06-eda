@@ -7,9 +7,9 @@
 This project aims to perform and publish a comprehensive Exploratory Data Analysis (EDA) to showcase the skills learned throughout the course. We will be analyzing the Wine Quality Dataset from the University of California-Irvine, demonstrating data preprocessing, visualization, and machine learning model deployment capabilities.
 
 ### Deliverables
-- Comprehensive EDA Report
-- Jupyter Notebooks with Analysis
-- Visualizations and Insights into Wine Quality Data
+-GitHub Repository: datafun-06-eda
+-Documentation: README.md
+-Notebook: jballard_eda.ipynb
 
 ### External Dependencies 🐼🪐
 - `jupyterlab`
