@@ -3,6 +3,10 @@
 - **Project Start Date**: February 11, 2024
 - **Project Completion Date**: TBD
 
+### Exploratory Data Analysis Findings:
+
+#### https://raw.githubusercontent.com/JBtallgrass/datafun-06-eda/main/datafun-06-eda-findings.txt
+
 ### Overview
 This project aims to perform and publish a comprehensive Exploratory Data Analysis (EDA) to showcase the skills learned throughout the course. We will be analyzing the Wine Quality Dataset from the University of California-Irvine, demonstrating data preprocessing, visualization, and machine learning model deployment capabilities.
 
